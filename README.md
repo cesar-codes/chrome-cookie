@@ -1,6 +1,12 @@
 # chrome-cookie
 
-[![Build Status](https://api.travis-ci.com/arshadkazmi42/chrome-cookie.svg?branch=master)](https://api.travis-ci.com/arshadkazmi42/chrome-cookie)
+[![Build](https://github.com/arshadkazmi42/chrome-cookie/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/chrome-cookie/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/chrome-cookie.svg)](https://www.npmjs.com/package/chrome-cookie)
+[![NPM Downloads](https://img.shields.io/npm/dt/chrome-cookie.svg)](https://www.npmjs.com/package/chrome-cookie)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/chrome-cookie.svg)](https://github.com/arshadkazmi42/chrome-cookie)
+[![LICENSE](https://img.shields.io/npm/l/chrome-cookie.svg)](https://github.com/arshadkazmi42/chrome-cookie/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/chrome-cookie.svg)](https://github.com/arshadkazmi42/chrome-cookie/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/chrome-cookie.svg)](https://github.com/arshadkazmi42/chrome-cookie/commits/master)
 
 Node Cookie Manager for Chrome, read / write cookie from sqlite db
 
@@ -67,9 +73,3 @@ Interested in contributing to this project?
 You can log any issues or suggestion related to this library [here](https://github.com/arshadkazmi42/chrome-cookie/issues/new)
 
 Read our contributing [guide](CONTRIBUTING.md) on getting started with contributing to the codebase
-
-## Contributors
-
-Thank you to all the contributors who have helped us in making this project better :raised_hands:
-
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
